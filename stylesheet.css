@@ -1,0 +1,13 @@
+a{
+  text-align: center;
+  color: gray;
+  font-family: Tahoma;
+  font-size: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.menu-items{
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 50px;
+}
